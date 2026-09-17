@@ -12,7 +12,7 @@
                 <editor resp="digital">Francisco Areta Close</editor>  
              </titleStmt>
             <publicationStmt>
-                <publisher>Nombre de la asignatura</publisher>
+                <publisher>Humanidades Digitales</publisher>
                 <availability>
                     <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
                 </availability>
@@ -46,7 +46,7 @@
         
         <p>que llaman el desaguadero, y para pasar la carga forman con mucha brevedad unas balsitas de los yugos, que sujetan bien con las coyundas y cabestros. También se hacen de cueros, como las que usan los habitantes de las orillas del <placeName key="riotercero">río Tercero</placeName> y otros.</p>
 
-        <p>Esta especie de bagajes está conocida en todo el mundo por la más útil. En el actual reinado se aumentó mucho en <placeName key="españa">España</placeName> con la composición de los grandes caminos. Desde <placeName key="bsas">Buenos Aires</placeName> a <placeName key="jujuy">Jujuy</placeName> hay 407 leguas itinerarias, y sale cada arroba de conducción a ocho reales, que parecerá increíble a los que carecen de experiencia. Desde la entrada de <placeName key="cordoba">Córdoba</placeName> a <placeName key="jujuy">Jujuy</placeName> fuera muy dificultoso y sumamente costosa la conducción de cargas en mulas, porque la mayor parte del camino se compone de espesos montes en que se perderían muchas, y los retobos, aunque fuesen de cuero, se rasgarían enredándose en las espinosas ramas, con perjuicio de las mercaderías y mulas que continuamente se imposibilitaran, deslomaran y perdieran sus cascos, a que se agrega la multitud de ríos caudalosos que no pudieran atravesar cargadas, por su natural timidez e inclinación a caminar siempre aguas abajo. A los bueyes sólo</p>
+        <p>Esta especie de bagajes está conocida en todo el mundo por la más útil. En el actual reinado se aumentó mucho en <placeName key="españa">España</placeName> con la composición de los grandes caminos. Desde <placeName key="bsas">Buenos Aires</placeName> a <placeName key="jujuy">Jujuy</placeName> hay <note xml:id="l4n1">407 leguas itinerarias</note>, y sale cada arroba de conducción a ocho reales, que parecerá increíble a los que carecen de experiencia. Desde la entrada de <placeName key="cordoba">Córdoba</placeName> a <placeName key="jujuy">Jujuy</placeName> fuera muy dificultoso y sumamente costosa la conducción de cargas en mulas, porque la mayor parte del camino se compone de espesos montes en que se perderían muchas, y los <note xml:id="l4n2">retobos</note>, aunque fuesen de cuero, se rasgarían enredándose en las espinosas ramas, con perjuicio de las mercaderías y mulas que continuamente se imposibilitaran, deslomaran y perdieran sus cascos, a que se agrega la multitud de ríos caudalosos que no pudieran atravesar cargadas, por su natural timidez e inclinación a caminar siempre aguas abajo. A los bueyes sólo</p>
 
             </body>
             </text>
